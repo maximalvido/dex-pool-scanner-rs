@@ -1,0 +1,17 @@
+# Build
+/target/
+
+# Logs and env
+*.log
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# User configuration (copy from protocols.json.example / tokens.json.example)
+protocols.json
+tokens.json
+
+# Optional cache (if used later)
+pools-cache.json
