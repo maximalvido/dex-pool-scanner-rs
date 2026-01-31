@@ -8,7 +8,7 @@ repository = "https://github.com/maximalvido/dex-pool-scanner"
 homepage = "https://github.com/maximalvido/dex-pool-scanner"
 documentation = "https://docs.rs/dex-pool-scanner-rust"
 readme = "README.md"
-keywords = ["dex", "uniswap", "liquidity", "defi", "evm", "subgraph", "the-graph"]
+keywords = ["dex scanner", "uniswap", "price scanner", "evm", "subgraph"]
 categories = ["cryptography::cryptocurrencies", "development-tools"]
 
 [dependencies]
