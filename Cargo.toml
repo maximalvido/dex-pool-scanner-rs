@@ -2,6 +2,14 @@
 name = "dex-pool-scanner-rust"
 version = "0.1.0"
 edition = "2024"
+description = "Multi-protocol DEX liquidity pool discovery and real-time price tracking for EVM networks via The Graph and WebSocket"
+license = "MIT"
+repository = "https://github.com/maximalvido/dex-pool-scanner"
+homepage = "https://github.com/maximalvido/dex-pool-scanner"
+documentation = "https://docs.rs/dex-pool-scanner-rust"
+readme = "README.md"
+keywords = ["dex", "uniswap", "liquidity", "defi", "evm", "subgraph", "the-graph"]
+categories = ["cryptography::cryptocurrencies", "development-tools"]
 
 [dependencies]
 alloy = { version = "0.9.2", features = ["full", "serde"] }
